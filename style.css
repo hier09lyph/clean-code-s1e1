@@ -1,6 +1,6 @@
 /* Basic Style */
 
-body {
+.page {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -11,6 +11,7 @@ body {
   margin: 0 auto;
   display: block;
   text-align: right;
+  
 }
 
 .header__logo {
@@ -38,7 +39,7 @@ body {
 .add-task-form__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-task-form__input-group {
@@ -171,7 +172,7 @@ button {
 /* Edit Task */
 
 .task-item__input {
-  display: none
+  display: none;
 }
 
 .task-item__input--edit {

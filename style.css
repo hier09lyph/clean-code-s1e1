@@ -47,7 +47,7 @@ body {
 
 ul {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 li,
@@ -153,7 +153,7 @@ button {
 .task-item__delete-btn img {
   height: 2em;
   transform: rotateZ(45deg);
-  transition: transform 200ms ease-in;
+  transition: all 200ms ease-in;
 }
 
 .task-item__delete-btn img:hover {

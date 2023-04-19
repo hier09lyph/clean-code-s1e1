@@ -95,7 +95,7 @@ button {
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
+  border: 1px solid #ddd;
   background: #FFF;
   border-radius: 6px;
   font-family: Lato, sans-serif;
@@ -147,7 +147,7 @@ button {
 }
 
 .task-item__input {
-  width: 226px
+  width: 226px;
 }
 
 .task-item__delete-btn img {
@@ -177,7 +177,7 @@ button {
 
 .task-item__input--edit {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-item__label--edit {
